@@ -1,5 +1,5 @@
-# macports-base
+# kencu-base
 
-This repository contains the source code for the MacPorts command-line client.
+This repository contains the my personal fork of macports-base with my own additions and modifications.
 
-Official documentation: <https://guide.macports.org/>
+You would be wise not to use this.
